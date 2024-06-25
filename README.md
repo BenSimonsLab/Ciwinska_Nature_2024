@@ -12,6 +12,7 @@ The code can be run on a Unix platform with the following command line:
 ```sh
 gfortran mammary.f
 ./a.out
+```
 
-
-The outputs are provided as clsize.dat and cldist.dat, with the former containing the average statistics as a function of estrous cycle number and the latter containing the clone size distributions. 
+## Output
+The outputs are provided as `clsize.dat` and `cldist.dat`, with the former containing the average statistics as a function of estrous cycle number and the latter containing the clone size distributions. 
